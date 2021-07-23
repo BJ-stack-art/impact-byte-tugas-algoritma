@@ -1,5 +1,6 @@
 ## Tugas Algoritma - Pertemuan ke 3
 
+
 ###### Project 1
 ```
 1. pilih jumlah jam yang akan diconvert ke detik
@@ -11,6 +12,7 @@
 7. masukkan hasil ke dalam variable
 8. cetak variable hasil perhitungan
 ```
+
 
 ###### Project 2
 ```
@@ -24,4 +26,17 @@
     - maka tampilkan "bilangan2 nilai terbesar" 
 5. jika bilangan1 sama dengan bilangan2 	
     - maka tampilkan "bilangan sama besar"
+```
+
+
+###### Project 3
+```
+1. Siapkan Jumlah Traveler, Harga tiket , dan pilihan "one way or two way", total. 
+2. harga per tiketnya adalah Rp 600.000  
+3. tiket akan di kalikan dengan jumlah traveler yang ikut pesawat.     
+    - apabila traveler memilih one way, maka tiket akan di kali satu.
+    - apabila traveler memilih two way, maka tiket akan di kali 2.
+4. total adalah jumlah traveler dikalikan harga tiket dikalikan pilihan tiket.
+5. total adalah harga yang harus dibayar.
+
 ```
