@@ -51,3 +51,19 @@ WHILE "count" <=  "N"
 	DISPLAY "count”
 	ADD “count” by 1
 ```
+
+
+###### Project 5
+```
+ADD value number
+
+number => 1 is true
+
+IF:
+    number divided by 3 and 5 have 0 modular, PRINT “fizz buzz” 
+ELSE :
+    number divided by 3 have 0 modular, PRINT “fizz”
+ELSE:
+    number divided by 5 have 0 modular, PRINT “buzz”
+
+```
