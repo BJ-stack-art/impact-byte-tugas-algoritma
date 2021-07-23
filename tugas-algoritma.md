@@ -40,3 +40,14 @@
 5. total adalah harga yang harus dibayar.
 
 ```
+
+
+###### Project 4
+```
+STORE "N" with 100 
+STORE "count" with 1  
+
+WHILE "count" <=  "N"
+	DISPLAY "count”
+	ADD “count” by 1
+```
